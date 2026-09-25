@@ -3,6 +3,10 @@
 A portfolio case study analysing a synthetic FMCG ERP dataset across **sales, customer profitability, service, inventory operations, manufacturing and supplier performance**.
 
 > **Portfolio note:** All data is synthetic. This is an independent learning project, not client or employment work.
+>
+> ## Dashboard Preview
+
+![FMCG ERP Analytics Executive Overview](screenshots/executive-overview.png)
 
 ## Project highlights
 
@@ -27,7 +31,7 @@ Key headline metrics in the completed report include:
 - **Unfulfilled Order Value:** £531.80K
 
 ### 2. Sales & Customers
-Explores sales drivers, customer contribution, large-account profitability, product margin pressure and promotion performance.
+Explores sales drivers, customer contribution, large-account profitability and product sales versus gross-margin performance.
 
 ### 3. Supply & Service
 Focuses on LINE OTIF, carrier lateness, unfulfilled demand and warehouse inventory write-offs.
@@ -102,7 +106,7 @@ Date roles follow the business process: order date for demand, dispatch date for
 ├── docs/                    # business rules, dictionary, questions, validation
 ├── sql/                     # SQL profiling, cleaning and model validation scripts
 ├── scripts/                 # reproducible synthetic-data generator
-├── powerbi/                 # report notes / PBIX download information
+├── powerbi/                 # Power BI PBIX report file
 ├── screenshots/             # dashboard and model screenshots
 └── presentation/            # recruiter-friendly project presentation
 ```
@@ -130,7 +134,6 @@ See [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) and [`docs/BUSINESS_RUL
 
 The report was developed against a local SQL Server instance and uses **Import mode**. Recruiters can open the PBIX and inspect the report, model and imported data without access to the original server. Refreshing the report requires recreating the SQL Server source from the supplied data/scripts or changing the data-source connection.
 
-A public Power BI Service link can be added later if you choose to publish the report to the web.
 
 ## Reproduce the synthetic dataset
 
