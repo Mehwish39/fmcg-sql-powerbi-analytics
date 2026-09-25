@@ -4,9 +4,9 @@ A portfolio case study analysing a synthetic FMCG ERP dataset across **sales, cu
 
 > **Portfolio note:** All data is synthetic. This is an independent learning project, not client or employment work.
 >
-> ## Dashboard Preview
+## Dashboard Overview
 
-![FMCG ERP Analytics Executive Overview](screenshots/executive-overview.png)
+![FMCG ERP Analytics Dashboard Overview](screenshots/fmcg_dashboard_overview_final.png)
 
 ## Project highlights
 
