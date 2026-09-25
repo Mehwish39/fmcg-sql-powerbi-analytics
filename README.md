@@ -6,7 +6,7 @@ A portfolio case study analysing a synthetic FMCG ERP dataset across **sales, cu
 >
 ## Dashboard Overview
 
-![FMCG ERP Analytics Dashboard Overview](screenshots/fmcg_dashboard_overview_final.png)
+![FMCG ERP Analytics Dashboard Overview](screenshots/fmcg_dashboard_overview.png)
 
 ## Project highlights
 
