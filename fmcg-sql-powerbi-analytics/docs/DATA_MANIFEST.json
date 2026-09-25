@@ -1,0 +1,37 @@
+{
+  "Customers": {
+    "rows": 12000,
+    "bytes": 979640,
+    "sha256": "f48f1de21e00321b97cfd0048b6bdc8eb0cd3274cb139351bf581eab08ca9d7e"
+  },
+  "SalesOrderLines": {
+    "rows": 145527,
+    "bytes": 18162378,
+    "sha256": "be1aac4abcf2981083dbebb958abf6f4bfef0d8a45a85e34e64ad2b01deb7ddc"
+  },
+  "DeliveryLines": {
+    "rows": 168005,
+    "bytes": 14341220,
+    "sha256": "420ab0921c502766af5135dfc7518daf6147fc42490c9142847e3ca09f424fd8"
+  },
+  "ReturnLines": {
+    "rows": 20188,
+    "bytes": 1179981,
+    "sha256": "0bb8b6c7169f5dc6a97bf67e747bfa6a9cae688f02ea654785fc9e9e0d19a06e"
+  },
+  "ProductionBatches": {
+    "rows": 58480,
+    "bytes": 4739818,
+    "sha256": "f19ce79a2a4c6e5a36a46a307baad0fa2beede9da7bc301b2a6cf8a98ea5d513"
+  },
+  "InventoryDaily": {
+    "rows": 175440,
+    "bytes": 11523035,
+    "sha256": "f7d80476054b355769ac25ef49b71502f08273922f1cc66e1b8d7ebc3973f289"
+  },
+  "ProcurementReceipts": {
+    "rows": 17544,
+    "bytes": 2404546,
+    "sha256": "27ed6d51d65e27e4efbb6842308b06bc31da8703db5b647d0030e748d45e45aa"
+  }
+}
